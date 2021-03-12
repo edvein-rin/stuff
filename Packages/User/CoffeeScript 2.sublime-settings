@@ -1,0 +1,12 @@
+// These settings override both User and Default settings for the JavaScript syntax
+{
+  "on_post_save_async_language": [
+    {
+      "command": "terser",
+      "scope": "window"
+    }
+  ],
+
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}

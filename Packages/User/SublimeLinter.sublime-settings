@@ -1,0 +1,20 @@
+// SublimeLinter Settings - User
+{
+  "linters": {
+    "flake8": {
+      "disable": false,
+      "executable": [ "python", "-m", "flake8" ],
+      "args": ["--ignore=E501"],
+      "excludes": ["__pycache__"]
+    },
+
+    "Standard": {
+      "disable": true,
+      "excludes": ["*.html"]
+    },
+
+    "htmlhint": {
+      "excludes": ["*.md", "*.js", "*.coffee"]
+    }
+  }
+}

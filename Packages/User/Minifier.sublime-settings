@@ -1,0 +1,8 @@
+{
+  "open_on_min": false,
+  "minify_options" : {
+    "ask_file_name" : true,
+    "default_name" : "",
+    "suffix" : ".min"
+  }
+}

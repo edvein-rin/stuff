@@ -1,0 +1,1 @@
+npm install -g htmlhint@latest postcss stylelint stylelint-config-standard less less-plugin-clean-css less-plugin-autoprefix standard terser coffeescript & pip install flake8

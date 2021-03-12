@@ -1,0 +1,10 @@
+{
+    "formatters": {
+        "terser": {
+            "disable": false,
+            "format_on_save": true,
+            "syntaxes": ["js", "source.js"]
+        }
+    }
+}
+

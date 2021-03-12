@@ -1,0 +1,4 @@
+{
+    // Ignores too long line
+    "ignore": "E501"
+}

@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"CSScomb",
+		"Cup",
+		"Hooks",
+		"LESS",
+		"Less2Css",
+		"MarkdownPreview",
+		"Package Control",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-flake8",
+		"SublimeLinter-stylelint",
+		"SublimeREPL",
+		"Virtualenv"
+	]
+}

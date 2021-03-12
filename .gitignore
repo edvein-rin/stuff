@@ -1,0 +1,8 @@
+/Installed Packages
+/Lib
+/Local
+/Packages/*
+!/Packages/Cup/
+!/Packages/JavaScript/
+!/Packages/TerserMyJS/
+!/Packages/User/
